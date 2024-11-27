@@ -7,7 +7,9 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Selected Publications
-- Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention<br>**Guangli Ren**; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu<br>Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.<br>
+<p class="justify-align">
+- Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention
+**Guangli Ren**; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu; Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.<p>
 
 - [A fast search algorithm based on image pyramid for robotic grasping](https://rengl.github.io/mypaper/papers/iros2017.pdf)<br>**Guangli Ren**; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.<br>
 
