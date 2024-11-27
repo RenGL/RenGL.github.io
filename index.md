@@ -8,6 +8,7 @@ layout: page
 
 Here is **Guangli Ren (任广力)**.<br>
 
+<p class="justify-align">这是一段两端对齐的文字，嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻信息这里是一些更长的文本，用于展示两端对齐的效果。</p>
 I received the B.E. degree in intelligent science and technology from Dalian Maritime University, Dalian, China, in 2015, and the M.E. degree in technology of computer application from the Capital Normal University, Beijing, China, in 2018. In 2024, I received the Ph.D. degree in control theory and control engineering from the Institute of Automation, Chinese Academy of Sciences, Beijing, China. My current research interests include visual SLAM and robotic manipulation.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - renguangli2024 [at] iscas.ac.cn
