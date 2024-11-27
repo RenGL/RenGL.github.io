@@ -11,7 +11,7 @@ title: Publications
 <ul>
   <li>Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention
 <b>Guangli Ren</b>; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu; Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.</li>
-  <li><a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">A fast search algorithm based on image pyramid for robotic grasping</a><b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~; 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.</li>
+  <li><a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">A fast search algorithm based on image pyramid for robotic grasping</a>. <b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~; 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.</li>
   <li>- [PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines](https://rengl.github.io/mypaper/papers/pljslam.pdf)<br>**Guangli Ren**; Zhiqiang Cao; Xilong Liu; Min Tan; Junzhi Yu~<br>in IEEE Sensors Journal, vol. 22, no. 15, pp. 15465-15476, 1 Aug.1, 2022.</li>
 </ul>
 </p>
