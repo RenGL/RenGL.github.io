@@ -7,7 +7,6 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Selected Publications
-<p class="justify-align">
 - Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention<br>**Guangli Ren**; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu<br>Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.<br>
 
 - [A fast search algorithm based on image pyramid for robotic grasping](https://rengl.github.io/mypaper/papers/iros2017.pdf)<br>**Guangli Ren**; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.<br>
@@ -23,7 +22,7 @@ title: Publications
 - [Adaptive Long-Neck Network With Atrous-Residual Structure for Instance Segmentation](https://rengl.github.io/mypaper/papers/gwj.pdf)<br>Wenjie Geng; Zhiqiang Cao; Peiyu Guan; **Guangli Ren**; Junzhi Yu; Fengshui Jing~<br>IEEE Sensors Journal, vol. 23, no. 7, pp. 7786-7797, 1 April1, 2023.<br>
 
 <br>
-</p>
+
 ---
 <!-- 
 ## Degree Thesis
