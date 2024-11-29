@@ -20,7 +20,7 @@ title: Publications
       <b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.
     </p></li>
   <div class="button">
-      <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">[pdf]</a>
+      <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
   </div>
 
   <li><b>PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines</b><br> 
@@ -29,7 +29,7 @@ title: Publications
     </p>
   </li>
   <div class="button">
-    <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">[pdf]</a>
+    <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">pdf</a>
   </div>
 
   <li><a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><b>Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</b></a><br>
@@ -37,7 +37,7 @@ title: Publications
       <b>Guangli Ren</b>; Wenjie Geng; Peiyu Guan; Zhiqiang Cao; Junzhi Yu~<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 8, pp. 4002-4010, Aug. 2023.</p>
   </li>
   <div class="button">
-    <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">[pdf]</a>
+    <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">pdf</a>
   </div>
 
   <li><a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><b>Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</b></a><br> 
@@ -46,7 +46,7 @@ title: Publications
     </p>
   </li>
   <div class="button">
-    <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">[pdf]</a>
+    <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">pdf</a>
   </div>
 
   <li><a href="https://rengl.github.io/mypaper/papers/yyy.pdf"><b>Robot Navigation Based on Situational Awareness</b></a><br> 
@@ -55,7 +55,7 @@ title: Publications
     </p>
   </li>
   <div class="button">
-      <a href="https://rengl.github.io/mypaper/papers/yyy.pdf">[pdf]</a>
+      <a href="https://rengl.github.io/mypaper/papers/yyy.pdf">pdf</a>
   </div>
   
   <li><a href="https://rengl.github.io/mypaper/papers/gwj.pdf"><b>Adaptive Long-Neck Network With Atrous-Residual Structure for Instance Segmentation</b></a><br>
@@ -64,7 +64,7 @@ title: Publications
     </p>
   </li>
   <div class="button">
-      <a href="https://rengl.github.io/mypaper/papers/gwj.pdf">[pdf]</a>
+      <a href="https://rengl.github.io/mypaper/papers/gwj.pdf">pdf</a>
   </div>
 </ul>
 </p>
