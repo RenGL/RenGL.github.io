@@ -391,15 +391,19 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .mfp-fade.mfp-removing.mfp-bg{opacity:0;}
 /* 两端对齐 */
 .justify-align {text-align: justify;}
+/* .button {
+  display: inline-block; 
+  padding: 10px 20px; 
+  border: 1px solid #000; 
+  background-color: #f0f0f0; 
+  cursor: pointer; 
+  text-align: center; 
+} */
 .button {
-  display: inline-block; /* 让div可以像按钮一样内联显示 */
-  /* padding: 10px 20px; 添加内边距，使按钮看起来更大 */
-  border: 1px solid #000; /* 添加边框 */
-  background-color: #f0f0f0; /* 添加背景色 */
-  cursor: pointer; /* 鼠标悬停时显示手形指针 */
-  text-align: center; /* 文本居中 */
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
 }
-
 .button a {
   margin-bottom: 0.07rem;
   padding: 0 0.09rem;
