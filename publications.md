@@ -31,10 +31,11 @@ title: Publications
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
       <b>Guangli Ren</b>; Wenjie Geng; Peiyu Guan; Zhiqiang Cao; Junzhi Yu~<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 8, pp. 4002-4010, Aug. 2023.
     </p>
-  </li>
-  <div class="button">
+    <div class="button">
       <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">[pdf]</a>
-  </div>
+    </div>
+  </li>
+
 
   <li><a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><b>Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
