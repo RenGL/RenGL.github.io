@@ -405,7 +405,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   flex-wrap: wrap;
 }
 .button a {
-  margin-bottom: 7px;
+  /* margin-bottom: 7px; */
   padding: 0 9px;
   height: 18px;
   line-height: 18px;
