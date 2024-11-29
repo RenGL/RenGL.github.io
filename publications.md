@@ -30,12 +30,13 @@ title: Publications
   </li>
   <li><a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><b>Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 12px;">
-      Zhenzhou Shao; Ying Qu; <b>Guangli Ren</b>; Guohui Wang; Yong Guan; Zhiping Shi; Jindong Tan~<br>EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, 2020, pp. 9614-9619.
+      Zhenzhou Shao; Ying Qu; <b>Guangli Ren</b>; Guohui Wang; Yong Guan; Zhiping Shi; Jindong Tan~<br>EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, 2020, pp. 9614-9619.<br>
+      <div class="button">
+        <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">[pdf]</a>
+      </div>
     </p>
   </li>
-  <div class="button">
-      <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">[pdf]</a>
-  </div>
+
   <li><a href="https://rengl.github.io/mypaper/papers/yyy.pdf"><b>Robot Navigation Based on Situational Awareness</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 12px;">
       Xilong Liu; Zhiqiang Cao; Yingying Yu; <b>Guangli Ren</b>; Junzhi Yu; Min Tan~<br>IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 3, pp. 869-881, Sept. 2022.
