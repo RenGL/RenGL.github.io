@@ -15,7 +15,7 @@ title: Publications
     </p>
   </li>
 
-  <li><a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><b>A fast search algorithm based on image pyramid for robotic grasping</b></a> <br>
+  <li><b>A fast search algorithm based on image pyramid for robotic grasping</b></a> <br>
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       <b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.
     </p></li>
@@ -32,7 +32,7 @@ title: Publications
     <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">pdf</a>
   </div>
 
-  <li><a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><b>Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</b></a><br>
+  <li><b>Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</b></a><br>
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       <b>Guangli Ren</b>; Wenjie Geng; Peiyu Guan; Zhiqiang Cao; Junzhi Yu~<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 8, pp. 4002-4010, Aug. 2023.</p>
   </li>
@@ -40,7 +40,7 @@ title: Publications
     <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">pdf</a>
   </div>
 
-  <li><a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><b>Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</b></a><br> 
+  <li><b>Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       Zhenzhou Shao; Ying Qu; <b>Guangli Ren</b>; Guohui Wang; Yong Guan; Zhiping Shi; Jindong Tan~<br>EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, 2020, pp. 9614-9619.
     </p>
@@ -49,7 +49,7 @@ title: Publications
     <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">pdf</a>
   </div>
 
-  <li><a href="https://rengl.github.io/mypaper/papers/yyy.pdf"><b>Robot Navigation Based on Situational Awareness</b></a><br> 
+  <li><b>Robot Navigation Based on Situational Awareness</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       Xilong Liu; Zhiqiang Cao; Yingying Yu; <b>Guangli Ren</b>; Junzhi Yu; Min Tan~<br>IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 3, pp. 869-881, Sept. 2022.
     </p>
@@ -58,7 +58,7 @@ title: Publications
       <a href="https://rengl.github.io/mypaper/papers/yyy.pdf">pdf</a>
   </div>
   
-  <li><a href="https://rengl.github.io/mypaper/papers/gwj.pdf"><b>Adaptive Long-Neck Network With Atrous-Residual Structure for Instance Segmentation</b></a><br>
+  <li><b>Adaptive Long-Neck Network With Atrous-Residual Structure for Instance Segmentation</b></a><br>
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       Wenjie Geng; Zhiqiang Cao; Peiyu Guan; <b>Guangli Ren</b>; Junzhi Yu; Fengshui Jing~<br>IEEE Sensors Journal, vol. 23, no. 7, pp. 7786-7797, 1 April1, 2023.
     </p>
