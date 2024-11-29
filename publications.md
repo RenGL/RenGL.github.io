@@ -21,7 +21,7 @@ title: Publications
   <div class="button">
       <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">[pdf]</a>
   </div>
-  <li><a href="https://rengl.github.io/mypaper/papers/pljslam.pdf"><b>PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines</b></a><br> 
+  <li><b>PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines</b><br> 
     <p style="font-family: Arial, sans-serif; font-size: 12px;">
       <b>Guangli Ren</b>; Zhiqiang Cao; Xilong Liu; Min Tan; Junzhi Yu~<br>IEEE Sensors Journal, vol. 22, no. 15, pp. 15465-15476, 1 Aug.1, 2022.</p></li><div class="button"><a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">[pdf]</a></div>
   <li><a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><b>Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</b></a><br>
