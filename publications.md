@@ -11,26 +11,21 @@ title: Publications
 <ul>
   <li><b>Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention</b><br>
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
-      <b>Guangli Ren</b>; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu; Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.
+      <b>Guangli Ren</b>; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu<br>Tsinghua Science and Technology, vol. 30, no. 3, June. 2025.
     </p>
   </li>
   <li><a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><b>A fast search algorithm based on image pyramid for robotic grasping</b></a> <br>
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
-      <b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~; 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.
-    </p>
-  </li>
+      <b>Guangli Ren</b>; Zhenzhou Shao; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong~<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.
+    </p></li>
   <div class="button">
       <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">[pdf]</a>
   </div>
 
   <li><a href="https://rengl.github.io/mypaper/papers/pljslam.pdf"><b>PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines</b></a><br> 
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
-      <b>Guangli Ren</b>; Zhiqiang Cao; Xilong Liu; Min Tan; Junzhi Yu~<br>in IEEE Sensors Journal, vol. 22, no. 15, pp. 15465-15476, 1 Aug.1, 2022.
-    </p>
-  </li>
-  <div class="button">
-      <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">[pdf]</a>
-  </div>
+      <b>Guangli Ren</b>; Zhiqiang Cao; Xilong Liu; Min Tan; Junzhi Yu~<br>IEEE Sensors Journal, vol. 22, no. 15, pp. 15465-15476, 1 Aug.1, 2022.
+    </p></li><div class="button"><a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">[pdf]</a></div>
 
   <li><a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><b>Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</b></a><br>
     <p style="font-family: Arial, sans-serif; font-size: 16px;">
