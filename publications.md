@@ -75,7 +75,7 @@ title: Publications
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://rengl.github.io/images/cat3d.jpg' width="160">
+          <img src='https://rengl.github.io/images/dffpa.jpg' width="160">
         </div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
@@ -85,7 +85,7 @@ title: Publications
         <br>
         <strong>Guangli Ren</strong>; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu
         <br>
-        <em>Tsinghua Science and Technology</em>, , vol. 30, no. 3, June, 2025. 
+        <em>Tsinghua Science and Technology</em>, vol. 30, no. 3, June, 2025. 
         <!-- <font color="red"><strong>(Oral Presentation)</strong></font> -->
         <br>
         <!-- <a href="https://cat3d.github.io/"><font color="blue">project page</font></a> -->
