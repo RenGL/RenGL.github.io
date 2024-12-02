@@ -75,7 +75,7 @@ title: Publications
   <tr bgcolor="#ffffd0">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='images/cat3d.jpg' width="160">
+          <img src='https://rengl.github.io/images/cat3d.jpg' width="160">
         </div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
