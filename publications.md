@@ -30,7 +30,7 @@ title: Publications
         <div class="button">
             <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
         </div>
-        <!-- <p></p> -->
+        <p></p>
         <!-- <p>
         A single model built around diffusion and NeRF that does text-to-3D, image-to-3D, and few-view reconstruction, trains in 1 minute, and renders at 60FPS in a browser.
         </p> -->
@@ -53,7 +53,7 @@ title: Publications
             <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
         </div>
         <!-- <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><font color="blue">pdf</font></a> -->
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ title: Publications
           <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf">pdf</a>
         </div>
         <!-- <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf"><font color="blue">pdf</font></a> -->
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ title: Publications
           <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">pdf</a>
         </div>
         <!-- <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><font color="blue">pdf</font></a> -->
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ title: Publications
           <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf">pdf</a>
         </div>
         <!-- <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><font color="blue">pdf</font></a> -->
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -133,7 +133,7 @@ title: Publications
         <div class="button">
         <a href="https://rengl.github.io/mypaper/papers/yyy.pdf">pdf</a>
         </div>
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ title: Publications
         <div class="button">
         <a href="https://rengl.github.io/mypaper/papers/gwj.pdf">pdf</a>
         </div>
-        <!-- <p></p> -->
+        <p></p>
       </td>
     </tr>
   <!-- <tr bgcolor="#ffffd0"> -->
