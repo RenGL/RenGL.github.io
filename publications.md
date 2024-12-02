@@ -17,7 +17,7 @@ title: Publications
 
   <li><b>A fast search algorithm based on image pyramid for robotic grasping</b><br>
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
-      <b>Guangli Ren</b>; Zhenzhou Shao~; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong<br>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 2017, pp. 6520-6525.
+      <b>Guangli Ren</b>; Zhenzhou Shao~; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong<br>, Vancouver, BC, Canada, 2017, pp. 6520-6525.
     </p></li>
   <div class="button">
       <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
@@ -36,7 +36,7 @@ title: Publications
     <p style="font-family: Arial, sans-serif; font-size: 12px; margin-bottom: 0;">
       <b>Guangli Ren</b>; Wenjie Geng; Peiyu Guan; Zhiqiang Cao~; Junzhi Yu<br>IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 8, pp. 4002-4010, Aug. 2023.</p>
   </li>
-  <div class="button">
+  <div class="button">2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">pdf</a>
   </div>
 
@@ -94,6 +94,111 @@ title: Publications
         <!-- <p>
         A single model built around diffusion and NeRF that does text-to-3D, image-to-3D, and few-view reconstruction, trains in 1 minute, and renders at 60FPS in a browser.
         </p> -->
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/iros2017.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">A fast search algorithm based on image pyramid for robotic grasping</span>
+        <br>
+        <strong>Guangli Ren</strong>; Zhenzhou Shao~; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong
+        <br>
+        <em>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Vancouver, BC, Canada, 2017, pp. 6520-6525.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><font color="blue">pdf</font></a>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/pljslam.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">PLJ-SLAM Monocular Visual SLAM With Points, Lines, and Junctions of Coplanar Lines</span>
+        <br>
+        <strong>Guangli Ren</strong>; Zhiqiang Cao; Xilong Liu~; Min Tan; Junzhi Yu
+        <br>
+        <em>IEEE Sensors Journal</em>, vol. 22, no. 15, pp. 15465-15476, 1 Aug.1, 2022.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/pljslam.pdf"><font color="blue">pdf</font></a>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/tdmagnet.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">Pixel-Wise Grasp Detection via Twin Deconvolution and Multi-Dimensional Attention</span>
+        <br>
+        <strong>Guangli Ren</strong>; Wenjie Geng; Peiyu Guan; Zhiqiang Cao~; Junzhi Yu
+        <br>
+        <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, vol. 33, no. 8, pp. 4002-4010, Aug. 2023.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><font color="blue">pdf</font></a>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/iros2020.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">Batch Normalization Masked Sparse Autoencoder for Robotic Grasping Detection</span>
+        <br>
+        Zhenzhou Shao; Ying Qu~; <strong>Guangli Ren</strong>; Guohui Wang; Yong Guan; Zhiping Shi; Jindong Tan
+        <br>
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Las Vegas, NV, USA, 2020, pp. 9614-9619.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/iros2020.pdf"><font color="blue">pdf</font></a>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/yyy.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">Robot Navigation Based on Situational Awareness</span>
+        <br>
+        Xilong Liu; Zhiqiang Cao~; Yingying Yu; <strong>Guangli Ren</strong>; Junzhi Yu; Min Tan
+        <br>
+        <em>IEEE Transactions on Cognitive and Developmental Systems</em>, vol. 14, no. 3, pp. 869-881, Sept. 2022.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/yyy.pdf"><font color="blue">pdf</font></a>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/gwj.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">Adaptive Long-Neck Network With Atrous-Residual Structure for Instance Segmentation</span>
+        <br>
+        Wenjie Geng; Zhiqiang Cao~; Peiyu Guan; <strong>Guangli Ren</strong>; Junzhi Yu; Fengshui Jing
+        <br>
+        <em>IEEE Sensors Journal</em>, vol. 23, no. 7, pp. 7786-7797, 1 April1, 2023.
+        <br>
+        <a href="https://rengl.github.io/mypaper/papers/gwj.pdf"><font color="blue">pdf</font></a>
+        <div class="button">
+        <a href="https://rengl.github.io/mypaper/papers/gwj.pdf">pdf</a>
+        </div>
+        <p></p>
       </td>
     </tr>
   <!-- <tr bgcolor="#ffffd0"> -->
