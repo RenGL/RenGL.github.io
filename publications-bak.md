@@ -79,16 +79,22 @@ title: Publications
         </div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
-        <!-- <a href="https://cat3d.github.io/"> -->
-      <span class="papertitle">Few-shot Object Detection via Dual-domain Feature Fusion and Patch-level Attention</span>
-        <!-- </a> -->
+        <a href="https://cat3d.github.io/">
+      <span class="papertitle">CAT3D: Create Anything in 3D with Multi-View Diffusion Models</span>
+        </a>
         <br>
-        <strong>Guangli Ren</strong>; Jierui Liu; Mengyao Wang; Peiyu Guan~; Zhiqiang Cao; Junzhi Yu
+        <a href="https://ruiqigao.github.io/">Ruiqi Gao</a>*,
+        <a href="https://holynski.org/">Aleksander Holynski</a>*, 
+        <a href="https://henzler.github.io/">Philipp Henzler</a>,
+        <a href="https://github.com/ArthurBrussee">Arthur Brussee</a>, 
+        <a href="http://ricardomartinbrualla.com/">Ricardo Martin Brualla</a>, 
+        <a href="https://pratulsrinivasan.github.io/">Pratul P. Srinivasan</a>,
+        <strong>Jonathan T. Barron</strong>,
+        <a href="https://poolio.github.io/">Ben Poole</a>*
         <br>
-        <em>Tsinghua Science and Technology</em>, , vol. 30, no. 3, June, 2025. 
-        <!-- <font color="red"><strong>(Oral Presentation)</strong></font> -->
+        <em>NeurIPS</em>, 2024 &nbsp <font color="red"><strong>(Oral Presentation)</strong></font>
         <br>
-        <!-- <a href="https://cat3d.github.io/"><font color="blue">project page</font></a> -->
+        <a href="https://cat3d.github.io/"><font color="blue">project page</font></a>
         <a href="https://arxiv.org/abs/2405.10314"><font color="blue">arXiv</font></a>
         <p></p>
         <!-- <p>
