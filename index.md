@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://rengl.github.io/renguangli.JPG" class="floatpic">
+<img src="https://rengl.github.io/rgl.jpg" class="floatpic">
 
 Here is **Guangli Ren (任广力)**.<br>
 
