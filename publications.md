@@ -39,26 +39,6 @@ title: Publications
     <tr>
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://rengl.github.io/images/iros2017.jpg' width="160">
-        </div>
-      </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
-      <span class="papertitle">A fast search algorithm based on image pyramid for robotic grasping</span>
-        <br>
-        <strong>Guangli Ren</strong>; Zhenzhou Shao~; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong
-        <br>
-        <em>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Vancouver, BC, Canada, 2017, pp. 6520-6525.
-        <br>
-        <div class="button">
-            <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
-        </div>
-        <!-- <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><font color="blue">pdf</font></a> -->
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
           <img src='https://rengl.github.io/images/pljslam.jpg' width="160">
         </div>
       </td>
@@ -93,6 +73,26 @@ title: Publications
           <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf">pdf</a>
         </div>
         <!-- <a href="https://rengl.github.io/mypaper/papers/tdmagnet.pdf"><font color="blue">pdf</font></a> -->
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://rengl.github.io/images/iros2017.jpg' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+      <span class="papertitle">A fast search algorithm based on image pyramid for robotic grasping</span>
+        <br>
+        <strong>Guangli Ren</strong>; Zhenzhou Shao~; Yong Guan; Ying Qu; Jindong Tan; Hongxing Wei; Guofeng Tong
+        <br>
+        <em>2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Vancouver, BC, Canada, 2017, pp. 6520-6525.
+        <br>
+        <div class="button">
+            <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
+        </div>
+        <!-- <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf"><font color="blue">pdf</font></a> -->
         <p></p>
       </td>
     </tr>
