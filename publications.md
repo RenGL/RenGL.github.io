@@ -28,7 +28,7 @@ title: Publications
         <!-- <a href="https://cat3d.github.io/"><font color="blue">project page</font></a> -->
         <!-- <a href="https://arxiv.org/abs/2405.10314"><font color="blue">arXiv</font></a> -->
         <div class="button">
-            <a href="https://rengl.github.io/mypaper/papers/iros2017.pdf">pdf</a>
+            <a href="https://rengl.github.io/mypaper/papers/dffpa.pdf">pdf</a>
         </div>
         <p></p>
         <!-- <p>
