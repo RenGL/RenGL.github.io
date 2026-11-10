@@ -12,7 +12,7 @@ Here is **Guangli Ren (任广力)**.<br>
 I am currently a postdoctoral researcher at the institute of Software, Chinese Academy of Sciences, where I work on computer vision, machine learning, and robotic manipulation. I received a PhD in Control Theory and Control Engineering from the Institute of Automation, Chinese Academy of Sciences, Beijing, China in 2024, where I was advised by Zhiqiang Cao. And I received the B.E. degree in intelligent science and technology from Dalian Maritime University, Dalian, China, in 2015, and the M.E. degree in technology of computer application from the Capital Normal University, Beijing, China, in 2018.
 My current research interests include visual SLAM and robotic manipulation.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - renguangli2024 [at] iscas.ac.cn
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - renguangli2024@iscas.ac.cn or rgl90s@163.com
 </p>
 ---
 
